@@ -1,0 +1,56 @@
+======================================================================
+KTS AI TRANSLATOR - LICENSE & THIRD-PARTY ATTRIBUTIONS
+======================================================================
+
+Copyright (c) 2026 Ngọc Thi (@zNgocThi). All Rights Reserved (Freeware).
+
+1. ĐIỀU KHOẢN SỬ DỤNG (FREEWARE TERMS OF USE)
+----------------------------------------------------------------------
+- Phần mềm KTS AI Translator được cung cấp miễn phí (Freeware) cho cộng
+  đồng kỹ sư, kiến trúc sư sử dụng trên AutoCAD 2025+.
+- Người dùng được phép tải về, cài đặt và sử dụng miễn phí cho mục đích
+  cá nhân hoặc công việc chuyên môn.
+- Nghiêm cấm hành vi dịch ngược mã nguồn (decompile/reverse engineer),
+  chỉnh sửa trái phép hoặc đóng gói lại phần mềm để bán thương mại.
+- Phần mềm được cung cấp "NGUYÊN TRẠNG" (AS-IS), tác giả không chịu
+  trách nhiệm cho bất kỳ thiệt hại gián tiếp nào phát sinh từ việc sử
+  dụng phần mềm.
+
+----------------------------------------------------------------------
+2. GHI NHẬN THƯ VIỆN MÃ NGUỒN MỞ (OPEN-SOURCE ATTRIBUTIONS - MIT)
+----------------------------------------------------------------------
+KTS AI Translator sử dụng các thư viện mã nguồn mở theo giấy phép MIT:
+
+* LLamaSharp (https://github.com/SciSharp/LLamaSharp)
+  Copyright (c) SciSharp STACK - Licensed under the MIT License.
+
+* llama.cpp / ggml (https://github.com/ggerganov/llama.cpp)
+  Copyright (c) Georgi Gerganov and contributors - Licensed under the MIT License.
+
+* .NET Runtime & Microsoft Extensions / CommunityToolkit Libraries
+  Copyright (c) .NET Foundation and Contributors - Licensed under the MIT License.
+
+----------------------------------------------------------------------
+THE MIT LICENSE (APPLICABLE TO THIRD-PARTY OPEN-SOURCE LIBRARIES)
+----------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+----------------------------------------------------------------------
+TRADEMARK NOTICE
+----------------------------------------------------------------------
+AutoCAD® is a registered trademark of Autodesk, Inc. This plugin is an
+independent third-party utility and is not affiliated with or endorsed
+by Autodesk, Inc.
+======================================================================

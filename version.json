@@ -1,0 +1,11 @@
+{
+    "version":  "1.0.0",
+    "buildDate":  "2026-10-11",
+    "minAutoCadVersion":  "2025",
+    "targetFramework":  "net8.0-windows",
+    "packageName":  "[KTS] AI TRANSLATOR 20261011.rar",
+    "author":  "Ngọc Thi (@zNgocThi)",
+    "youtube":  "https://www.youtube.com/@zNgocThi",
+    "tiktok":  "https://www.tiktok.com/@lngocthiwithcad",
+    "releaseNotes":  "Phiên bản 1.0.0 chính thức: Hỗ trợ dịch bản vẽ AutoCAD 2025+ bằng Google Translate, Groq Cloud LLM và LLamaSharp Offline (Tencent Hy-MT2 \u0026 Qwen 2.5 GGUF) kèm chuẩn hóa MText và từ điển cá nhân O(1)."
+}
