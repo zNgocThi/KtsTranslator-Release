@@ -1,0 +1,11 @@
+﻿{
+    "version":  "1.0.2",
+    "buildDate":  "2026-10-12",
+    "minAutoCadVersion":  "2025",
+    "targetFramework":  "net8.0-windows",
+    "packageName":  "[KTS] AI TRANSLATOR 20261012.rar",
+    "author":  "Ngọc Thi (@zNgocThi)",
+    "youtube":  "https://www.youtube.com/@zNgocThi",
+    "tiktok":  "https://www.tiktok.com/@lngocthiwithcad",
+    "releaseNotes":  "Phiên bản 1.0.2: Khắc phục lỗi trả về kết quả rỗng của mô hình LLama Offline (Tencent Hy-MT2 1.8B), bổ sung cơ chế bảo vệ từng cụm (Chunk Resilience) tránh đứt gãy bản vẽ, nâng cấp thuật toán AutoDetect nhận diện CJK và chống trùng lặp văn bản song ngữ, bổ sung cảnh báo khi thiếu API Key hoặc đường dẫn Model."
+}
